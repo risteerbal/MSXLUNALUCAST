@@ -2351,6 +2351,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-03-24 05:13:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-03-24 05:03:50 +0000"
@@ -2366,6 +2372,12 @@
   "werewolves:recipes/misc/silver_axe": {
     "criteria": {
       "has_sticks": "2025-03-24 04:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-24 05:12:27 +0000"
     },
     "done": true
   },
@@ -2387,9 +2399,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-03-24 05:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-24 05:11:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-03-24 04:48:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2025-03-24 05:12:27 +0000"
     },
     "done": true
   },
@@ -2453,6 +2483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-24 05:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-24 05:03:50 +0000"
@@ -2507,6 +2543,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-24 05:09:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-03-24 04:57:59 +0000"
@@ -2538,9 +2580,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-24 05:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-24 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "feywild:recipes/misc/winter_fey_altar": {
+    "criteria": {
+      "criterion1": "2025-03-24 05:12:27 +0000"
     },
     "done": true
   },
@@ -2724,15 +2778,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-24 05:11:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-03-24 04:53:50 +0000"
     },
     "done": true
   },
+  "feywild:recipes/misc/summoning_scroll": {
+    "criteria": {
+      "criterion2": "2025-03-24 05:13:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2025-03-24 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-24 05:13:35 +0000"
     },
     "done": true
   },
@@ -2760,9 +2832,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crafting/arrow_from_arrowhead": {
+    "criteria": {
+      "has_feather": "2025-03-24 05:13:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-03-24 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-03-24 05:13:35 +0000"
     },
     "done": true
   },
@@ -2814,9 +2898,21 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2025-03-24 05:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-24 05:04:21 +0000"
+    },
+    "done": true
+  },
+  "feywild:recipes/misc/magical_brazier": {
+    "criteria": {
+      "criterion4": "2025-03-24 05:13:38 +0000"
     },
     "done": true
   },
@@ -2847,6 +2943,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-24 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-03-24 05:13:37 +0000"
     },
     "done": true
   },
@@ -2904,6 +3006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-24 05:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-03-24 04:52:11 +0000"
@@ -2928,6 +3036,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-03-24 05:13:34 +0000"
+    },
+    "done": true
+  },
   "feywild:recipes/decorations/blossom_tree_planks_sign": {
     "criteria": {
       "criterion1": "2025-03-24 04:57:59 +0000"
@@ -2937,6 +3051,12 @@
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-03-24 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-03-24 05:13:37 +0000"
     },
     "done": true
   },
@@ -3048,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-24 05:13:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-24 05:03:50 +0000"
@@ -3101,6 +3227,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2025-03-24 05:04:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 05:09:38 +0000"
     },
     "done": true
   },
@@ -3266,6 +3398,12 @@
     },
     "done": true
   },
+  "feywild:recipes/misc/autumn_fey_altar": {
+    "criteria": {
+      "criterion1": "2025-03-24 05:12:27 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
     "criteria": {
       "has_string": "2025-03-24 05:04:21 +0000"
@@ -3287,6 +3425,12 @@
   "werewolves:recipes/misc/silver_hoe": {
     "criteria": {
       "has_sticks": "2025-03-24 04:57:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-03-24 05:13:35 +0000"
     },
     "done": true
   },
@@ -3434,9 +3578,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-24 05:13:38 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/shapetool": {
     "criteria": {
       "has_stick": "2025-03-24 04:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-24 05:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crafting/arrow_from_piranha_tooth": {
+    "criteria": {
+      "has_feather": "2025-03-24 05:13:34 +0000"
     },
     "done": true
   },
@@ -3506,6 +3668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-24 05:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-24 04:47:47 +0000"
@@ -3536,9 +3704,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-24 05:13:38 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/green_cobblestone_extra": {
     "criteria": {
       "has_material": "2025-03-24 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-24 05:12:27 +0000"
+    },
+    "done": true
+  },
+  "feywild:recipes/misc/summer_fey_altar": {
+    "criteria": {
+      "criterion1": "2025-03-24 05:12:27 +0000"
     },
     "done": true
   },
@@ -3612,6 +3798,12 @@
   "feywild:recipes/decorations/summer_tree_planks_sign": {
     "criteria": {
       "criterion1": "2025-03-24 04:57:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-03-24 05:13:35 +0000"
     },
     "done": true
   },
