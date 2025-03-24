@@ -4349,3 +4349,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'scall_of_yucutan:jade_block'
 [24Mar2025 01:23:03.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alma_Risteerbal lost connection: Timed out
 [24Mar2025 01:23:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alma_Risteerbal left the game
 [24Mar2025 01:23:03.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alma_Risteerbal
+[24Mar2025 01:25:01.740] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@24d8b18d[id=<null>,name=Alma_Risteerbal,properties={},legacy=false] (/127.171.139.7:52689): Took too long to log in
+[24Mar2025 01:25:01.741] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24d8b18d[id=<null>,name=Alma_Risteerbal,properties={},legacy=false] (/127.171.139.7:52689) lost connection: Took too long to log in
+[24Mar2025 01:25:01.789] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Mar2025 01:25:42.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37cad3fe[id=<null>,name=Alma_Risteerbal,properties={},legacy=false] (/127.171.139.7:34947) lost connection: Disconnected
