@@ -184,10 +184,10 @@
 
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
+			"minecraft:sticky_piston" = "minecraft:piston"
+			"quark:dirty_glass_pane" = "minecraft:glass_pane"
 			"quark:dirty_glass" = "minecraft:glass"
 			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
-			"quark:dirty_glass_pane" = "minecraft:glass_pane"
-			"minecraft:sticky_piston" = "minecraft:piston"
 
 	[functional.cannon]
 		enabled = true
@@ -498,19 +498,22 @@
 		#Damage that items in the 'supplementaries:slingshot_damageable' tag will deal. Scales with thrown speed. Tag is empty by default.
 		#Range: 0.0 ~ 100.0
 		damageable_damage = 0.5
-		#Allows splash potions to be thrown by slingshots
-		allow_splash_potions = false
-		#Allows bombs to be thrown by slingshots
-		allow_bombs = false
-		#Allows fire charges to be thrown by slingshots
-		allow_fire_charges = false
-		#Allows snowballs to be thrown by slingshots
-		allow_snowballs = false
-		#Allows enderpearls to be thrown by slingshots
-		allow_enderpearls = false
+		#Allows splif you feel its cursed.
+		slant = true
+		#Allows entities to fall through awnings, when shifting.
+		shift_through = true
+		#Bouncing angle of slanted awnings
+		#Range: 0.0 ~ 90.0
+		angle = 69.44395478041653
 
-	[tools.antique_ink]
+	[building.flower_box]
 		enabled = true
+		#Makes so flower boxes can only contain one tall flower item per block
+		simple_mode = true
+
+	[building.netherite_doors]
+		door = true
+		trapdoor = true
 
 #General settings
 [general]
